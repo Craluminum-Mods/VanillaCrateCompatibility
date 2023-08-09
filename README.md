@@ -1,1 +1,1 @@
-# ExampleMod
+# VanillaCrateCompatibility

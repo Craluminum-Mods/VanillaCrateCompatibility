@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "side": "universal",
+    "modid": "vanillacratecompatibility",
+    "name": "Vanilla Crate Compatibility",
+    "description": "Automatically adds more vanilla crate types when new wood types are present",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.18.0"
+    }
+}

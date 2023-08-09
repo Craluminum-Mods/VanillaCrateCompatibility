@@ -1,0 +1,37 @@
+[
+  {
+    "op": "remove",
+    "path": "/ingredients/P/allowedVariants",
+    "file": "game:recipes/grid/crate.json"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/P/skipVariants",
+    "value": [
+    ],
+    "file": "game:recipes/grid/crate.json"
+  },
+  {
+    "op": "addeach",
+    "path": "/ingredients/P/skipVariants/-",
+    "value": [
+      "aged",
+      "agedebony",
+      "rottenebony"
+    ],
+    "file": "game:recipes/grid/crate.json"
+  },
+  {
+    "op": "remove",
+    "path": "/ingredients/W/allowedVariants",
+    "file": "game:recipes/grid/crate.json"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/W/skipVariants",
+    "value": [
+      "aged"
+    ],
+    "file": "game:recipes/grid/crate.json"
+  }
+]
